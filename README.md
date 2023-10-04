@@ -1,4 +1,4 @@
-This is a simple NodeJS+Express application performing CRUD operation on SQL database.
+This is a simple NodeJS+Express application performing CRUD operation on MySQL database.
 
 
 
